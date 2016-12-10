@@ -1,0 +1,25 @@
+{
+  "name": "present-esoteric-quiz",
+  "version": "1.0.0",
+  "description": "Esiteric Quiz Presentation",
+  "homepage": "https://present-esoteric-quiz.herokuapp.com",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": {
+    "name": "Yevhen Shemet",
+    "email": "yevhene@gmail.com",
+    "web": "https://github.com/yevhene"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yevhene/present-esoteric-quiz.git"
+  },
+  "engines": {
+    "node": "~6.2.2"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  },
+  "license": "MIT"
+}
